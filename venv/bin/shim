@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/Users/abc/Desktop/Projects/playwight-project/venv/lib/node_modules'
+export NPM_CONFIG_PREFIX='/Users/abc/Desktop/Projects/playwight-project/venv'
+export npm_config_prefix='/Users/abc/Desktop/Projects/playwight-project/venv'
+exec '/Users/abc/Desktop/Projects/playwight-project/venv/bin/node' "$@"
