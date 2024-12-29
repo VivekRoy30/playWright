@@ -4,4 +4,4 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 
-venv/
+venv/src/node-v23.5.0-darwin-arm64/bin/node
